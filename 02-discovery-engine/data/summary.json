@@ -1,0 +1,41 @@
+{
+  "total_docs": 400,
+  "relevant_docs": 372,
+  "relevance_rate": 0.93,
+  "wishlist_mentioned_docs": 318,
+  "intent_distribution": {
+    "sale_wait": 42,
+    "unsure": 45,
+    "unknown": 172,
+    "inspiration": 38,
+    "occasion": 31,
+    "buy_soon": 44
+  },
+  "sources": {
+    "youtube": 62,
+    "play_store": 184,
+    "reddit": 94,
+    "app_store": 60
+  },
+  "mode": "heuristic",
+  "top3": [
+    {
+      "blocker": "FIT_SIZE",
+      "label": "Fit and size uncertainty",
+      "opportunity_score": 0.3789,
+      "share_of_relevant_docs": 0.288
+    },
+    {
+      "blocker": "AVAILABILITY",
+      "label": "Size or item sold out before deciding",
+      "opportunity_score": 0.1742,
+      "share_of_relevant_docs": 0.121
+    },
+    {
+      "blocker": "LOOK_STYLE",
+      "label": "Will it look right on me",
+      "opportunity_score": 0.1566,
+      "share_of_relevant_docs": 0.164
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+blocker,label,mentions,share_of_relevant_docs,mean_severity,decisive_mentions,wishlist_co_mentions,addressable_without_money,latency_impact,opportunity_score,rank
+FIT_SIZE,Fit and size uncertainty,107,0.288,1.63,16,107,0.9,0.9,0.3789,1
+AVAILABILITY,Size or item sold out before deciding,45,0.121,2.0,0,38,0.8,0.9,0.1742,2
+LOOK_STYLE,Will it look right on me,61,0.164,1.49,14,59,0.8,0.8,0.1566,3
+SOCIAL_VALIDATION,Needs a second opinion,44,0.118,1.98,15,41,0.8,0.8,0.1497,4
+APP_UX,Wishlist tooling is weak,34,0.091,2.65,22,34,0.9,0.6,0.1306,5
+QUALITY,Fabric and quality doubt,40,0.108,2.0,0,36,0.7,0.7,0.1054,6
+RETURN_HASSLE,Fear of return or exchange,52,0.14,1.71,0,45,0.6,0.7,0.1005,7
+PRICE_WAIT,Waiting for a sale or better price,85,0.228,2.02,23,72,0.2,0.9,0.0832,8
+ALTERNATIVES,Comparing with other options,48,0.129,1.5,4,48,0.6,0.7,0.0813,9
+OCCASION_TIMING,Saved for a future occasion,46,0.124,1.7,10,39,0.6,0.6,0.0755,10
+DELIVERY_TRUST,Delivery and seller trust,59,0.159,1.19,0,39,0.5,0.5,0.047,11
+BOOKMARK_ONLY,Wishlist used as inspiration board,55,0.148,1.67,11,42,0.3,0.2,0.0148,12

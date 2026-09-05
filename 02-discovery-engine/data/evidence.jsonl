@@ -1,0 +1,300 @@
+{"id": "yt_00000", "source": "youtube", "severity": 3, "evidence": "uring EORS. Everything else waits for a sale. Found the same H&M sneakers cheaper on Ajio, so Myntra", "blocker": "PRICE_WAIT"}
+{"id": "rp_00003", "source": "reddit", "severity": 2, "evidence": "saved it and will check during the next sale.", "blocker": "PRICE_WAIT"}
+{"id": "ps_00006", "source": "play_store", "severity": 2, "evidence": "saved it and will check during the next sale.", "blocker": "PRICE_WAIT"}
+{"id": "ps_00012", "source": "play_store", "severity": 3, "evidence": "Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "ps_00016", "source": "play_store", "severity": 3, "evidence": "for a trip. Will buy later. Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "as_00018", "source": "app_store", "severity": 2, "evidence": "saved it and will check during the next sale.", "blocker": "PRICE_WAIT"}
+{"id": "rp_00030", "source": "reddit", "severity": 1, "evidence": "e and abandon. Found the same H&M kurti cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "PRICE_WAIT"}
+{"id": "rp_00033", "source": "reddit", "severity": 1, "evidence": "care did not respond to my query about coupon code.", "blocker": "PRICE_WAIT"}
+{"id": "as_00037", "source": "app_store", "severity": 2, "evidence": "saved it and will check during the next sale.", "blocker": "PRICE_WAIT"}
+{"id": "ps_00038", "source": "play_store", "severity": 1, "evidence": "care did not respond to my query about coupon code.", "blocker": "PRICE_WAIT"}
+{"id": "yt_00039", "source": "youtube", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale. Wish the wishlist could remind me or let me add notes", "blocker": "PRICE_WAIT"}
+{"id": "rp_00042", "source": "reddit", "severity": 3, "evidence": "Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "as_00043", "source": "app_store", "severity": 3, "evidence": "Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "as_00046", "source": "app_store", "severity": 1, "evidence": "care did not respond to my query about coupon code.", "blocker": "PRICE_WAIT"}
+{"id": "as_00049", "source": "app_store", "severity": 1, "evidence": "care did not respond to my query about coupon code.", "blocker": "PRICE_WAIT"}
+{"id": "ps_00050", "source": "play_store", "severity": 1, "evidence": "care did not respond to my query about coupon code.", "blocker": "PRICE_WAIT"}
+{"id": "yt_00054", "source": "youtube", "severity": 2, "evidence": "saved it and will check during the next sale.", "blocker": "PRICE_WAIT"}
+{"id": "as_00057", "source": "app_store", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale. Waited two days and the top was sold out in M. No rest", "blocker": "PRICE_WAIT"}
+{"id": "rp_00062", "source": "reddit", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale.", "blocker": "PRICE_WAIT"}
+{"id": "rp_00073", "source": "reddit", "severity": 3, "evidence": "Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "as_00077", "source": "app_store", "severity": 2, "evidence": "saved it and will check during the next sale. Got a wrong item once, since then my wishlist is longe", "blocker": "PRICE_WAIT"}
+{"id": "yt_00079", "source": "youtube", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale. My wife decides. I just wishlist and show her on weeke", "blocker": "PRICE_WAIT"}
+{"id": "ps_00080", "source": "play_store", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale. Some items are non returnable and you only notice at c", "blocker": "PRICE_WAIT"}
+{"id": "ps_00082", "source": "play_store", "severity": 2, "evidence": "uring EORS. Everything else waits for a sale.", "blocker": "PRICE_WAIT"}
+{"id": "ps_00091", "source": "play_store", "severity": 3, "evidence": "Waiting for price drop on my wishlist items, Myntra always has an offer", "blocker": "PRICE_WAIT"}
+{"id": "yt_00000", "source": "youtube", "severity": 2, "evidence": "Found the same H&M sneakers cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "yt_00001", "source": "youtube", "severity": 2, "evidence": "scared to order. Confused between three similar dresses in my wishlist, ended up buying none.", "blocker": "ALTERNATIVES"}
+{"id": "as_00005", "source": "app_store", "severity": 2, "evidence": "Confused between three similar dresses in my wishlist, ended up buying none. Wishli", "blocker": "ALTERNATIVES"}
+{"id": "as_00013", "source": "app_store", "severity": 1, "evidence": "e takes days to reply lol. Wishlisted a H&M top but reviews say the fabric is thin and cheap looking", "blocker": "ALTERNATIVES"}
+{"id": "rp_00030", "source": "reddit", "severity": 2, "evidence": "on. Found the same H&M kurti cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "as_00036", "source": "app_store", "severity": 1, "evidence": "I am 27F and I never know my size in H&M, so half my wishlist is just things I am scared to order", "blocker": "ALTERNATIVES"}
+{"id": "ps_00052", "source": "play_store", "severity": 3, "evidence": "t so I just leave things in wishlist. I compare on Amazon and Flipkart before buying from Myntra wis", "blocker": "ALTERNATIVES"}
+{"id": "yt_00074", "source": "youtube", "severity": 2, "evidence": "Confused between three similar dresses in my wishlist, ended up buying none.", "blocker": "ALTERNATIVES"}
+{"id": "ps_00075", "source": "play_store", "severity": 1, "evidence": "I am 27F and I never know my size in H&M, so half my wishlist is just things I am scared to order", "blocker": "ALTERNATIVES"}
+{"id": "ps_00090", "source": "play_store", "severity": 1, "evidence": "oo many items in wishlist and no way to compare them side by side.", "blocker": "ALTERNATIVES"}
+{"id": "ps_00103", "source": "play_store", "severity": 1, "evidence": "Wishlisted a H&M dress but reviews say the fabric is thin and cheap looki", "blocker": "ALTERNATIVES"}
+{"id": "ps_00106", "source": "play_store", "severity": 1, "evidence": "ishlist and never ordered. Wishlisted a Zara jacket but reviews say the fabric is thin and cheap loo", "blocker": "ALTERNATIVES"}
+{"id": "ps_00118", "source": "play_store", "severity": 1, "evidence": "Wishlisted a Zara shirt but reviews say the fabric is thin and cheap look", "blocker": "ALTERNATIVES"}
+{"id": "yt_00130", "source": "youtube", "severity": 2, "evidence": "cent sure about. Confused between three similar dresses in my wishlist, ended up buying none.", "blocker": "ALTERNATIVES"}
+{"id": "as_00137", "source": "app_store", "severity": 2, "evidence": "Confused between three similar dresses in my wishlist, ended up buying none.", "blocker": "ALTERNATIVES"}
+{"id": "yt_00138", "source": "youtube", "severity": 2, "evidence": "Confused between three similar dresses in my wishlist, ended up buying none.", "blocker": "ALTERNATIVES"}
+{"id": "ps_00140", "source": "play_store", "severity": 1, "evidence": "I am 27F and I never know my size in Zara, so half my wishlist is just things I am scared to orde", "blocker": "ALTERNATIVES"}
+{"id": "ps_00150", "source": "play_store", "severity": 3, "evidence": "and will check during the next sale. I compare on Amazon and Flipkart before buying from Myntra wis", "blocker": "ALTERNATIVES"}
+{"id": "ps_00160", "source": "play_store", "severity": 2, "evidence": "Found the same Zara shirt cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "rp_00162", "source": "reddit", "severity": 1, "evidence": "the same Sassafras sneakers cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "as_00174", "source": "app_store", "severity": 1, "evidence": "Found the same Puma top cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "ps_00182", "source": "play_store", "severity": 1, "evidence": "I am 27F and I never know my size in Zara, so half my wishlist is just things I am scared to orde", "blocker": "ALTERNATIVES"}
+{"id": "rp_00197", "source": "reddit", "severity": 1, "evidence": "I am 27F and I never know my size in Zara, so half my wishlist is just things I am scared to orde", "blocker": "ALTERNATIVES"}
+{"id": "ps_00198", "source": "play_store", "severity": 1, "evidence": "Found the same Puma shirt cheaper on Ajio, so Myntra wishlist stays as it is.", "blocker": "ALTERNATIVES"}
+{"id": "ps_00208", "source": "play_store", "severity": 1, "evidence": "oo many items in wishlist and no way to compare them side by side.", "blocker": "ALTERNATIVES"}
+{"id": "yt_00001", "source": "youtube", "severity": 1, "evidence": "I am 27F and I never know my size in Roadster, so half my wishlist is just things I am sc", "blocker": "FIT_SIZE"}
+{"id": "as_00010", "source": "app_store", "severity": 1, "evidence": "I am 27F and I never know my size in Libas, so half my wishlist is just things I am scare", "blocker": "FIT_SIZE"}
+{"id": "ps_00017", "source": "play_store", "severity": 3, "evidence": "Size chart says one thing, reviews say it runs small. Kept i", "blocker": "FIT_SIZE"}
+{"id": "ps_00021", "source": "play_store", "severity": 1, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so", "blocker": "FIT_SIZE"}
+{"id": "rp_00035", "source": "reddit", "severity": 3, "evidence": "Size chart says one thing, reviews say it runs small. Kept i", "blocker": "FIT_SIZE"}
+{"id": "as_00036", "source": "app_store", "severity": 1, "evidence": "I am 27F and I never know my size in H&M, so half my wishlist is just things I am scared", "blocker": "FIT_SIZE"}
+{"id": "yt_00048", "source": "youtube", "severity": 1, "evidence": "Ordered two sizes of the same dress last time and returned one, cannot k", "blocker": "FIT_SIZE"}
+{"id": "ps_00052", "source": "play_store", "severity": 1, "evidence": "Ordered two sizes of the same kurti last time and returned one, cannot k", "blocker": "FIT_SIZE"}
+{"id": "rp_00055", "source": "reddit", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra. For 1500 rupees I want to kno", "blocker": "FIT_SIZE"}
+{"id": "rp_00060", "source": "reddit", "severity": 3, "evidence": "Size chart says one thing, reviews say it runs small. Kept i", "blocker": "FIT_SIZE"}
+{"id": "rp_00063", "source": "reddit", "severity": 1, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so", "blocker": "FIT_SIZE"}
+{"id": "rp_00072", "source": "reddit", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra.", "blocker": "FIT_SIZE"}
+{"id": "ps_00075", "source": "play_store", "severity": 1, "evidence": "I am 27F and I never know my size in H&M, so half my wishlist is just things I am scared", "blocker": "FIT_SIZE"}
+{"id": "rp_00076", "source": "reddit", "severity": 1, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so", "blocker": "FIT_SIZE"}
+{"id": "as_00081", "source": "app_store", "severity": 1, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so", "blocker": "FIT_SIZE"}
+{"id": "as_00086", "source": "app_store", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra.", "blocker": "FIT_SIZE"}
+{"id": "yt_00088", "source": "youtube", "severity": 2, "evidence": "wishlist like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "FIT_SIZE"}
+{"id": "ps_00092", "source": "play_store", "severity": 1, "evidence": "Ordered two sizes of the same dress last time and returned one, cannot k", "blocker": "FIT_SIZE"}
+{"id": "yt_00095", "source": "youtube", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra.", "blocker": "FIT_SIZE"}
+{"id": "ps_00098", "source": "play_store", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra.", "blocker": "FIT_SIZE"}
+{"id": "yt_00101", "source": "youtube", "severity": 1, "evidence": "always has an offer coming. Ordered two sizes of the same top last time and returned one, cannot kee", "blocker": "FIT_SIZE"}
+{"id": "ps_00106", "source": "play_store", "severity": 3, "evidence": "Size chart says one thing, reviews say it runs small. Kept i", "blocker": "FIT_SIZE"}
+{"id": "ps_00107", "source": "play_store", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra. Got a wrong item once, since", "blocker": "FIT_SIZE"}
+{"id": "rp_00115", "source": "reddit", "severity": 1, "evidence": "thing I save. By the time I decided, my size was out of stock. Wishlist just shows sold out now, so", "blocker": "FIT_SIZE"}
+{"id": "ps_00120", "source": "play_store", "severity": 2, "evidence": "ot sure if M or L will fit, every brand sizing is different on Myntra.", "blocker": "FIT_SIZE"}
+{"id": "ps_00002", "source": "play_store", "severity": 2, "evidence": "Return pickup failed twice last time, so now I do not order", "blocker": "RETURN_HASSLE"}
+{"id": "as_00004", "source": "app_store", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00030", "source": "reddit", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00048", "source": "youtube", "severity": 1, "evidence": "o sizes of the same dress last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00052", "source": "play_store", "severity": 1, "evidence": "o sizes of the same kurti last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00056", "source": "play_store", "severity": 2, "evidence": "in wishlist instead of risking another return.", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00059", "source": "reddit", "severity": 2, "evidence": "Return pickup failed twice last time, so now I do not order", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00071", "source": "play_store", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00073", "source": "reddit", "severity": 2, "evidence": "in wishlist instead of risking another return.", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00080", "source": "play_store", "severity": 2, "evidence": "se waits for a sale. Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00083", "source": "play_store", "severity": 2, "evidence": "Return pickup failed twice last time, so now I do not order", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00092", "source": "play_store", "severity": 1, "evidence": "o sizes of the same dress last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00101", "source": "youtube", "severity": 1, "evidence": "two sizes of the same top last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00108", "source": "play_store", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00113", "source": "youtube", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00114", "source": "reddit", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "as_00126", "source": "app_store", "severity": 1, "evidence": "o sizes of the same dress last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00130", "source": "youtube", "severity": 2, "evidence": "Return pickup failed twice last time, so now I do not order", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00133", "source": "youtube", "severity": 2, "evidence": "in wishlist instead of risking another return.", "blocker": "RETURN_HASSLE"}
+{"id": "ps_00134", "source": "play_store", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "yt_00135", "source": "youtube", "severity": 2, "evidence": "in wishlist instead of risking another return. Saved a lehenga for my cousin's wedding in December.", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00176", "source": "reddit", "severity": 2, "evidence": "Return pickup failed twice last time, so now I do not order", "blocker": "RETURN_HASSLE"}
+{"id": "rp_00195", "source": "reddit", "severity": 1, "evidence": "o sizes of the same kurti last time and returned one, cannot keep doing that so I just leave things", "blocker": "RETURN_HASSLE"}
+{"id": "as_00201", "source": "app_store", "severity": 2, "evidence": "Some items are non returnable and you only notice at checkout. So I just save a", "blocker": "RETURN_HASSLE"}
+{"id": "as_00207", "source": "app_store", "severity": 2, "evidence": "in wishlist instead of risking another return. Delivery was late by a week last time. I hesitate to", "blocker": "RETURN_HASSLE"}
+{"id": "as_00004", "source": "app_store", "severity": 1, "evidence": "just save and abandon. Not sure what to pair this kurti with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "rp_00014", "source": "reddit", "severity": 1, "evidence": "Wishlisted a Puma pair of jeans but reviews say the fabric is thin and cheap l", "blocker": "LOOK_STYLE"}
+{"id": "rp_00022", "source": "reddit", "severity": 1, "evidence": "he model but I have no idea how it will look on me, so it sits in wishlist.", "blocker": "LOOK_STYLE"}
+{"id": "yt_00025", "source": "youtube", "severity": 1, "evidence": "he model but I have no idea how it will look on me, so it sits in wishlist.", "blocker": "LOOK_STYLE"}
+{"id": "rp_00034", "source": "reddit", "severity": 1, "evidence": "Waited two days and the pair of jeans was sold out in M. No restock notification eit", "blocker": "LOOK_STYLE"}
+{"id": "ps_00058", "source": "play_store", "severity": 1, "evidence": "Wishlisted a Puma pair of jeans but reviews say the fabric is thin and cheap l", "blocker": "LOOK_STYLE"}
+{"id": "rp_00063", "source": "reddit", "severity": 1, "evidence": "out now, so annoying. Not sure what to pair this dress with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "as_00066", "source": "app_store", "severity": 1, "evidence": "Not sure what to pair this pair of jeans with, I saved it but probably will n", "blocker": "LOOK_STYLE"}
+{"id": "ps_00070", "source": "play_store", "severity": 1, "evidence": "Not sure what to pair this dress with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "ps_00075", "source": "play_store", "severity": 1, "evidence": "I am scared to order. Not sure what to pair this shirt with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "ps_00078", "source": "play_store", "severity": 3, "evidence": "Colour in the photo and actual product were totally differen", "blocker": "LOOK_STYLE"}
+{"id": "as_00086", "source": "app_store", "severity": 1, "evidence": "Not sure what to pair this dress with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "yt_00088", "source": "youtube", "severity": 1, "evidence": "se wishlist like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "LOOK_STYLE"}
+{"id": "ps_00094", "source": "play_store", "severity": 3, "evidence": "Colour in the photo and actual product were totally differen", "blocker": "LOOK_STYLE"}
+{"id": "rp_00105", "source": "reddit", "severity": 1, "evidence": "he model but I have no idea how it will look on me, so it sits in wishlist.", "blocker": "LOOK_STYLE"}
+{"id": "rp_00115", "source": "reddit", "severity": 3, "evidence": "Colour in the photo and actual product were totally differen", "blocker": "LOOK_STYLE"}
+{"id": "ps_00119", "source": "play_store", "severity": 1, "evidence": "Not sure what to pair this co-ord set with, I saved it but probably will not", "blocker": "LOOK_STYLE"}
+{"id": "ps_00124", "source": "play_store", "severity": 3, "evidence": "Colour in the photo and actual product were totally differen", "blocker": "LOOK_STYLE"}
+{"id": "rp_00125", "source": "reddit", "severity": 1, "evidence": "Not sure what to pair this top with, I saved it but probably will not buy.", "blocker": "LOOK_STYLE"}
+{"id": "ps_00128", "source": "play_store", "severity": 1, "evidence": "he model but I have no idea how it will look on me, so it sits in wishlist. Have 200 items in wishli", "blocker": "LOOK_STYLE"}
+{"id": "ps_00132", "source": "play_store", "severity": 1, "evidence": "se wishlist like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "LOOK_STYLE"}
+{"id": "as_00144", "source": "app_store", "severity": 1, "evidence": "se wishlist like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "LOOK_STYLE"}
+{"id": "yt_00155", "source": "youtube", "severity": 1, "evidence": "out now, so annoying. Not sure what to pair this pair of jeans with, I saved it but probably will n", "blocker": "LOOK_STYLE"}
+{"id": "rp_00156", "source": "reddit", "severity": 1, "evidence": "Saved a pair of jeans in my wishlist for weeks but not sure if M or", "blocker": "LOOK_STYLE"}
+{"id": "ps_00170", "source": "play_store", "severity": 3, "evidence": "Colour in the photo and actual product were totally differen", "blocker": "LOOK_STYLE"}
+{"id": "as_00004", "source": "app_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon. Not sure what to pair this kurti with", "blocker": "BOOKMARK_ONLY"}
+{"id": "as_00008", "source": "app_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00028", "source": "play_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00030", "source": "reddit", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon. Found the same H&M kurti cheaper on A", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00041", "source": "reddit", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00045", "source": "reddit", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00071", "source": "play_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00080", "source": "play_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "yt_00088", "source": "youtube", "severity": 3, "evidence": "like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "BOOKMARK_ONLY"}
+{"id": "as_00089", "source": "app_store", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00108", "source": "play_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00112", "source": "play_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "yt_00113", "source": "youtube", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00114", "source": "reddit", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00128", "source": "play_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00132", "source": "play_store", "severity": 3, "evidence": "like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00134", "source": "play_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00139", "source": "reddit", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00142", "source": "play_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "as_00144", "source": "app_store", "severity": 3, "evidence": "like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00147", "source": "play_store", "severity": 2, "evidence": "0 items in wishlist, it is basically my mood board for later.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00154", "source": "play_store", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "BOOKMARK_ONLY"}
+{"id": "ps_00184", "source": "play_store", "severity": 3, "evidence": "like Pinterest, just saving outfits for inspiration, not buying.", "blocker": "BOOKMARK_ONLY"}
+{"id": "rp_00185", "source": "reddit", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "BOOKMARK_ONLY"}
+{"id": "as_00201", "source": "app_store", "severity": 1, "evidence": "e and you only notice at checkout. So I just save and abandon.", "blocker": "BOOKMARK_ONLY"}
+{"id": "as_00005", "source": "app_store", "severity": 2, "evidence": "isted a Anouk dress but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "as_00011", "source": "app_store", "severity": 2, "evidence": "d a Puma co-ord set but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "as_00013", "source": "app_store", "severity": 2, "evidence": "ishlisted a H&M top but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "rp_00014", "source": "reddit", "severity": 2, "evidence": "Puma pair of jeans but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "as_00020", "source": "app_store", "severity": 2, "evidence": "isted a Levis kurti but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00024", "source": "play_store", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "rp_00032", "source": "reddit", "severity": 2, "evidence": "ed a Anouk sneakers but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "yt_00047", "source": "youtube", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "yt_00048", "source": "youtube", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "ps_00051", "source": "play_store", "severity": 2, "evidence": "d a Sassafras shirt but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "rp_00055", "source": "reddit", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "ps_00058", "source": "play_store", "severity": 2, "evidence": "Puma pair of jeans but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00064", "source": "play_store", "severity": 2, "evidence": "isted a Levis shirt but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "yt_00069", "source": "youtube", "severity": 2, "evidence": "sted a Anouk jacket but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00096", "source": "play_store", "severity": 2, "evidence": "isted a Libas dress but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00103", "source": "play_store", "severity": 2, "evidence": "hlisted a H&M dress but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00106", "source": "play_store", "severity": 2, "evidence": "isted a Zara jacket but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00109", "source": "play_store", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "yt_00110", "source": "youtube", "severity": 2, "evidence": "a Roadster sneakers but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "ps_00118", "source": "play_store", "severity": 2, "evidence": "listed a Zara shirt but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "as_00122", "source": "app_store", "severity": 2, "evidence": "listed a Puma dress but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "rp_00165", "source": "reddit", "severity": 2, "evidence": "ted a Sassafras top but reviews say the fabric is thin and cheap looking. Skipped it. Wishlist has n", "blocker": "QUALITY"}
+{"id": "ps_00167", "source": "play_store", "severity": 2, "evidence": "a Levis co-ord set but reviews say the fabric is thin and cheap looking. Skipped it.", "blocker": "QUALITY"}
+{"id": "as_00186", "source": "app_store", "severity": 2, "evidence": "1500 rupees I want to know the material quality before buying, the description does not say much.", "blocker": "QUALITY"}
+{"id": "yt_00190", "source": "youtube", "severity": 2, "evidence": "Levis pair of jeans but reviews say the fabric is thin and cheap looking. Skipped it. Always ask my", "blocker": "QUALITY"}
+{"id": "as_00008", "source": "app_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "yt_00009", "source": "youtube", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00016", "source": "play_store", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later. Waiting for price drop on my wishlist", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00019", "source": "play_store", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00028", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00031", "source": "play_store", "severity": 1, "evidence": "week last time. I hesitate to order for occasions now.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00040", "source": "play_store", "severity": 1, "evidence": "week last time. I hesitate to order for occasions now.", "blocker": "OCCASION_TIMING"}
+{"id": "yt_00047", "source": "youtube", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later. For 1500 rupees I want to know the mat", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00056", "source": "play_store", "severity": 2, "evidence": "Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month. Refun", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00068", "source": "play_store", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00085", "source": "play_store", "severity": 2, "evidence": "Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month.", "blocker": "OCCASION_TIMING"}
+{"id": "as_00093", "source": "app_store", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00097", "source": "play_store", "severity": 3, "evidence": "shlisted winter jackets in August for a trip. Will buy later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00112", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00124", "source": "play_store", "severity": 2, "evidence": "I save. Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00128", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "yt_00135", "source": "youtube", "severity": 2, "evidence": "return. Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month.", "blocker": "OCCASION_TIMING"}
+{"id": "rp_00139", "source": "reddit", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00141", "source": "play_store", "severity": 1, "evidence": "week last time. I hesitate to order for occasions now.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00142", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00147", "source": "play_store", "severity": 2, "evidence": "week last time. I hesitate to order for occasions now. Have 200 items in wishlist, it is basically m", "blocker": "OCCASION_TIMING"}
+{"id": "as_00164", "source": "app_store", "severity": 2, "evidence": "Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00173", "source": "play_store", "severity": 1, "evidence": "week last time. I hesitate to order for occasions now.", "blocker": "OCCASION_TIMING"}
+{"id": "ps_00177", "source": "play_store", "severity": 1, "evidence": "week last time. I hesitate to order for occasions now.", "blocker": "OCCASION_TIMING"}
+{"id": "as_00193", "source": "app_store", "severity": 2, "evidence": "Saved a lehenga for my cousin's wedding in December. No hurry, will decide next month.", "blocker": "OCCASION_TIMING"}
+{"id": "as_00008", "source": "app_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "yt_00009", "source": "youtube", "severity": 1, "evidence": "jackets in August for a trip. Will buy later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00016", "source": "play_store", "severity": 1, "evidence": "jackets in August for a trip. Will buy later. Waiting for price drop on my wishlist items, Myntra a", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00019", "source": "play_store", "severity": 1, "evidence": "jackets in August for a trip. Will buy later.", "blocker": "DELIVERY_TRUST"}
+{"id": "rp_00023", "source": "reddit", "severity": 1, "evidence": "anything, so I never revisit it. Got a wrong item once, since then my wishlist is longer than my or", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00028", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00031", "source": "play_store", "severity": 2, "evidence": "Delivery was late by a week last time. I hesitate to order f", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00040", "source": "play_store", "severity": 2, "evidence": "Delivery was late by a week last time. I hesitate to order f", "blocker": "DELIVERY_TRUST"}
+{"id": "rp_00041", "source": "reddit", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "DELIVERY_TRUST"}
+{"id": "rp_00045", "source": "reddit", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "DELIVERY_TRUST"}
+{"id": "yt_00047", "source": "youtube", "severity": 1, "evidence": "jackets in August for a trip. Will buy later. For 1500 rupees I want to know the material quality b", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00053", "source": "play_store", "severity": 1, "evidence": "Got a wrong item once, since then my wishlist is longer than my or", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00068", "source": "play_store", "severity": 1, "evidence": "jackets in August for a trip. Will buy later.", "blocker": "DELIVERY_TRUST"}
+{"id": "as_00077", "source": "app_store", "severity": 1, "evidence": "will check during the next sale. Got a wrong item once, since then my wishlist is longer than my or", "blocker": "DELIVERY_TRUST"}
+{"id": "as_00089", "source": "app_store", "severity": 1, "evidence": "Great app, fast delivery, love the collection.", "blocker": "DELIVERY_TRUST"}
+{"id": "as_00093", "source": "app_store", "severity": 1, "evidence": "jackets in August for a trip. Will buy later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00097", "source": "play_store", "severity": 1, "evidence": "jackets in August for a trip. Will buy later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00107", "source": "play_store", "severity": 1, "evidence": "nd sizing is different on Myntra. Got a wrong item once, since then my wishlist is longer than my or", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00112", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00116", "source": "play_store", "severity": 1, "evidence": "WhatsApp before buying anything. Got a wrong item once, since then my wishlist is longer than my or", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00128", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "rp_00139", "source": "reddit", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00141", "source": "play_store", "severity": 2, "evidence": "Delivery was late by a week last time. I hesitate to order f", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00142", "source": "play_store", "severity": 1, "evidence": "list, it is basically my mood board for later.", "blocker": "DELIVERY_TRUST"}
+{"id": "ps_00147", "source": "play_store", "severity": 2, "evidence": "Delivery was late by a week last time. I hesitate to order f", "blocker": "DELIVERY_TRUST"}
+{"id": "yt_00009", "source": "youtube", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something. Wishlisted winter jac", "blocker": "APP_UX"}
+{"id": "rp_00023", "source": "reddit", "severity": 3, "evidence": "Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "ps_00026", "source": "play_store", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "yt_00039", "source": "youtube", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "rp_00065", "source": "reddit", "severity": 3, "evidence": "Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "ps_00078", "source": "play_store", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "ps_00090", "source": "play_store", "severity": 3, "evidence": "ordering, she takes days to reply lol. Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "rp_00123", "source": "reddit", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "rp_00151", "source": "reddit", "severity": 3, "evidence": "Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "rp_00157", "source": "reddit", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "rp_00165", "source": "reddit", "severity": 3, "evidence": "cheap looking. Skipped it. Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "ps_00194", "source": "play_store", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "rp_00197", "source": "reddit", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something.", "blocker": "APP_UX"}
+{"id": "ps_00205", "source": "play_store", "severity": 3, "evidence": "Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "ps_00208", "source": "play_store", "severity": 3, "evidence": "mber. No hurry, will decide next month. Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00211", "source": "play_store", "severity": 3, "evidence": "is thin and cheap looking. Skipped it. Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00216", "source": "play_store", "severity": 3, "evidence": "Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "as_00251", "source": "app_store", "severity": 3, "evidence": "Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00267", "source": "play_store", "severity": 3, "evidence": "Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "yt_00271", "source": "youtube", "severity": 3, "evidence": "list instead of risking another return. Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00279", "source": "play_store", "severity": 3, "evidence": "Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00283", "source": "play_store", "severity": 3, "evidence": "Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00305", "source": "play_store", "severity": 2, "evidence": "the wishlist could remind me or let me add notes about why I saved something. Waited two days and t", "blocker": "APP_UX"}
+{"id": "rp_00311", "source": "reddit", "severity": 3, "evidence": "Too many items in wishlist and no way to compare them side b", "blocker": "APP_UX"}
+{"id": "ps_00332", "source": "play_store", "severity": 3, "evidence": "ing else waits for a sale. Wishlist has no folders or sorting. 150 items and I cannot find anything,", "blocker": "APP_UX"}
+{"id": "as_00013", "source": "app_store", "severity": 2, "evidence": "Always ask my friend if the top looks good before ordering, she takes days", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00021", "source": "play_store", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00027", "source": "reddit", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "as_00036", "source": "app_store", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00063", "source": "reddit", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying. Not sure what to pair this", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00076", "source": "reddit", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "yt_00079", "source": "youtube", "severity": 2, "evidence": "S. Everything else waits for a sale. My wife decides. I just wishlist and show her on weekends.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "as_00081", "source": "app_store", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00087", "source": "play_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00090", "source": "play_store", "severity": 2, "evidence": "Always ask my friend if the kurti looks good before ordering, she takes da", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00099", "source": "play_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00104", "source": "reddit", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00115", "source": "reddit", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00116", "source": "play_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything. Got a wrong item", "blocker": "SOCIAL_VALIDATION"}
+{"id": "as_00122", "source": "app_store", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying. Wishlisted a Puma dress but", "blocker": "SOCIAL_VALIDATION"}
+{"id": "as_00131", "source": "app_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00148", "source": "reddit", "severity": 2, "evidence": "Always ask my friend if the kurti looks good before ordering, she takes da", "blocker": "SOCIAL_VALIDATION"}
+{"id": "yt_00155", "source": "youtube", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying. Not sure what to pair this", "blocker": "SOCIAL_VALIDATION"}
+{"id": "as_00168", "source": "app_store", "severity": 2, "evidence": "My wife decides. I just wishlist and show her on weekends.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00171", "source": "play_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything. By the time I dec", "blocker": "SOCIAL_VALIDATION"}
+{"id": "yt_00190", "source": "youtube", "severity": 2, "evidence": "heap looking. Skipped it. Always ask my friend if the pair of jeans looks good before ordering, she", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00200", "source": "play_store", "severity": 1, "evidence": "my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "rp_00210", "source": "reddit", "severity": 2, "evidence": "before buying from Myntra wishlist. My wife decides. I just wishlist and show her on weekends.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00233", "source": "play_store", "severity": 2, "evidence": "r a trip. Will buy later. Always ask my friend if the pair of jeans looks good before ordering, she", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00234", "source": "play_store", "severity": 3, "evidence": "creenshot my wishlist and send it to my sister on WhatsApp before buying anything.", "blocker": "SOCIAL_VALIDATION"}
+{"id": "ps_00021", "source": "play_store", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "rp_00034", "source": "reddit", "severity": 2, "evidence": "ited two days and the pair of jeans was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "as_00036", "source": "app_store", "severity": 2, "evidence": "der. By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "as_00057", "source": "app_store", "severity": 2, "evidence": "a sale. Waited two days and the top was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "rp_00063", "source": "reddit", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "as_00066", "source": "app_store", "severity": 2, "evidence": "ited two days and the pair of jeans was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "rp_00076", "source": "reddit", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "as_00081", "source": "app_store", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "yt_00088", "source": "youtube", "severity": 2, "evidence": "Waited two days and the top was sold out in M. No restock notification either. I use wishlis", "blocker": "AVAILABILITY"}
+{"id": "ps_00111", "source": "play_store", "severity": 2, "evidence": "Waited two days and the dress was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "rp_00115", "source": "reddit", "severity": 2, "evidence": "ave. By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "ps_00117", "source": "play_store", "severity": 2, "evidence": "Waited two days and the dress was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "yt_00121", "source": "youtube", "severity": 2, "evidence": "Waited two days and the co-ord set was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "as_00122", "source": "app_store", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "rp_00136", "source": "reddit", "severity": 2, "evidence": "Waited two days and the dress was sold out in M. No restock notification either.", "blocker": "AVAILABILITY"}
+{"id": "ps_00142", "source": "play_store", "severity": 2, "evidence": "lf my wishlist items got removed or are unavailable in my size. Why even save. Have 200 items in wis", "blocker": "AVAILABILITY"}
+{"id": "ps_00145", "source": "play_store", "severity": 2, "evidence": "lf my wishlist items got removed or are unavailable in my size. Why even save.", "blocker": "AVAILABILITY"}
+{"id": "yt_00155", "source": "youtube", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "rp_00162", "source": "reddit", "severity": 2, "evidence": "lf my wishlist items got removed or are unavailable in my size. Why even save. Found the same Sassaf", "blocker": "AVAILABILITY"}
+{"id": "ps_00163", "source": "play_store", "severity": 2, "evidence": "Waited two days and the dress was sold out in M. No restock notification either. Size chart sa", "blocker": "AVAILABILITY"}
+{"id": "rp_00169", "source": "reddit", "severity": 2, "evidence": "lf my wishlist items got removed or are unavailable in my size. Why even save.", "blocker": "AVAILABILITY"}
+{"id": "ps_00171", "source": "play_store", "severity": 2, "evidence": "ing. By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}
+{"id": "rp_00191", "source": "reddit", "severity": 2, "evidence": "Waited two days and the dress was sold out in M. No restock notification either. Too expensive", "blocker": "AVAILABILITY"}
+{"id": "as_00192", "source": "app_store", "severity": 2, "evidence": "lf my wishlist items got removed or are unavailable in my size. Why even save.", "blocker": "AVAILABILITY"}
+{"id": "ps_00200", "source": "play_store", "severity": 2, "evidence": "By the time I decided, my size was out of stock. Wishlist just shows sold out now, so annoying.", "blocker": "AVAILABILITY"}

@@ -1,0 +1,28 @@
+{
+  "name": "Priya",
+  "height_cm": 160,
+  "usual_top_size": "M",
+  "fit_history": [
+    {"brand": "Sassafras", "category": "western_wear", "sub": "co-ord", "size": "M", "outcome": "kept", "when": "2026-03"},
+    {"brand": "Sassafras", "category": "western_wear", "sub": "top", "size": "M", "outcome": "returned", "reason": "too tight at bust", "when": "2026-05"},
+    {"brand": "Libas", "category": "ethnic_wear", "sub": "kurta", "size": "M", "outcome": "kept", "when": "2025-10"},
+    {"brand": "Levis", "category": "western_wear", "sub": "jeans", "size": "28", "outcome": "kept", "when": "2026-01"},
+    {"brand": "Roadster", "category": "western_wear", "sub": "jeans", "size": "28", "outcome": "returned", "reason": "tight on hips", "when": "2025-12"},
+    {"brand": "H&M", "category": "western_wear", "sub": "top", "size": "M", "outcome": "returned", "reason": "too small", "when": "2026-02"},
+    {"brand": "H&M", "category": "western_wear", "sub": "top", "size": "L", "outcome": "kept", "when": "2026-02"},
+    {"brand": "Global Desi", "category": "western_wear", "sub": "dress", "size": "M", "outcome": "kept", "when": "2025-09"},
+    {"brand": "Puma", "category": "footwear", "sub": "sneakers", "size": "UK5", "outcome": "kept", "when": "2025-11"}
+  ],
+  "wardrobe": [
+    {"item": "White straight trousers", "colour_family": "neutral"},
+    {"item": "Black bodysuit", "colour_family": "neutral"},
+    {"item": "Tan block heels", "colour_family": "neutral"},
+    {"item": "Denim jacket", "colour_family": "blue"},
+    {"item": "Gold jhumkas", "colour_family": "warm"},
+    {"item": "Olive wide-leg pants", "colour_family": "green"}
+  ],
+  "occasions": [
+    {"name": "Cousin's engagement", "date": "2026-09-26"},
+    {"name": "Office Diwali party", "date": "2026-10-23"}
+  ]
+}
