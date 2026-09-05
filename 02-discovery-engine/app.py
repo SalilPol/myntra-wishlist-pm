@@ -16,7 +16,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from classify import SYSTEM_PROMPT, heuristic
+from classify import SYSTEM_PROMPT, _text_of, heuristic
 from taxonomy import BLOCKERS, SEGMENT_FIELDS
 
 DATA = Path(__file__).parent / "data"
@@ -27,8 +27,8 @@ st.markdown("""
 <style>
   .block-container {padding-top: 1.6rem; max-width: 1200px;}
   h1, h2, h3 {font-family: Georgia, 'Times New Roman', serif; letter-spacing: -0.01em;}
-  .note {background:#F3F6F9; border-left: 4px solid #2B6CB0; padding: .7rem 1rem; border-radius: 4px;}
-  .warn {background:#FFF7E6; border-left: 4px solid #B7791F; padding: .7rem 1rem; border-radius: 4px;}
+  .note {background:#F3F6F9; color:#1C1B22; border-left: 4px solid #2B6CB0; padding: .7rem 1rem; border-radius: 4px;}
+  .warn {background:#FFF7E6; color:#1C1B22; border-left: 4px solid #B7791F; padding: .7rem 1rem; border-radius: 4px;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -75,9 +75,10 @@ with tab_opp:
                          labels={"opportunity_score": "Opportunity score", "label": ""},
                          color="addressable_without_money",
                          color_continuous_scale=["#9DB4C0", "#1F4E79"])
-            fig.update_layout(height=520, margin=dict(l=10, r=10, t=10, b=10), coloraxis_showscale=False,
-                              font=dict(family="Arial", size=13))
-            fig.update_traces(textposition="outside")
+            xmax = float(opp["opportunity_score"].max()) * 1.18
+            fig.update_layout(height=520, margin=dict(l=10, r=30, t=10, b=10), coloraxis_showscale=False,
+                              font=dict(family="Arial", size=13), xaxis=dict(range=[0, xmax]))
+            fig.update_traces(textposition="inside", insidetextanchor="end", textfont=dict(color="white", size=13), cliponaxis=False)
             st.plotly_chart(fig, use_container_width=True)
         with right:
             st.markdown("**How to read this**")
@@ -157,9 +158,9 @@ with tab_live:
             client = anthropic.Anthropic(api_key=key)
             with st.spinner("Reading"):
                 resp = client.messages.create(model=os.environ.get("CLASSIFIER_MODEL", "claude-haiku-4-5-20251001"),
-                                              max_tokens=600, system=SYSTEM_PROMPT,
+                                              max_tokens=1200, system=SYSTEM_PROMPT,
                                               messages=[{"role": "user", "content": text}])
-                raw = resp.content[0].text.strip().strip("`").replace("json\n", "", 1)
+                raw = _text_of(resp).strip().strip("`").replace("json\n", "", 1)
                 try:
                     out = json.loads(raw)
                 except json.JSONDecodeError:

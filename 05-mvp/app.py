@@ -35,7 +35,7 @@ st.markdown("""
   .block-container {padding-top: 1.2rem; max-width: 1120px;}
   :root {--ink:#1C1B22; --accent:#D6336C; --slate:#5C6370; --ok:#0F7B6C; --warn:#B7791F; --panel:#F7F5F8;}
   h1 {font-weight: 700; letter-spacing: -0.02em; color: var(--ink);}
-  .card {border:1px solid #E6E3E9; border-radius: 10px; padding: 10px 12px 8px; background:#fff; min-height: 150px;}
+  .card {border:1px solid #E6E3E9; border-radius: 10px; padding: 10px 12px 8px; background:#fff; color:#1C1B22; min-height: 150px;}
   .swatch {height: 64px; border-radius: 8px; display:flex; align-items:center; justify-content:center; font-size: 30px; margin-bottom: 8px;}
   .brand {font-size: 12px; color: var(--slate); text-transform: none;}
   .name {font-weight: 600; color: var(--ink); line-height: 1.2;}
@@ -249,7 +249,7 @@ else:
             vs = st.selectbox("Compare with (optional)", [None] + others, format_func=lambda o: "Just this one" if o is None else f"{o['brand']} {o['name']}")
             base_url = st.text_input("Your app link", value="https://wishlist-decide.streamlit.app", help="After deploying, paste the public URL here so the vote link works.")
             text, link = E.share_card(it, fit, base_url, vs)
-            st.code(text, language=None)
+            st.code(text, language=None, wrap_lines=True)
             st.markdown(f"[Open the vote page as your friend would]({link})")
             votes = st.session_state.votes.get(it["id"], []) + [v["vote"] for v in load_votes().get(it["id"], [])]
             if votes:

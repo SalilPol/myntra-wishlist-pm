@@ -238,6 +238,14 @@ def share_card(item, fit, base_url, other=None):
 
 # ---------------------------------------------------------------- LLM explanation (optional)
 
+
+def _text_of(resp):
+    """Return the first text block of a Messages API response (skips thinking blocks)."""
+    for block in resp.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
 SYSTEM = """You are a shopping assistant inside a fashion app. You receive structured facts about one wishlisted item,
 the shopper's own fit history, wardrobe, and the deterministic verdicts already computed. Write the explanation a
 trusted friend who works in fashion retail would give. Use ONLY the facts provided. Never invent reviews, stock, or
@@ -262,9 +270,9 @@ def llm_explain(item, intent, profile, fit, look, api_key):
             "occasions": profile["occasions"], "computed_fit_verdict": fit, "computed_look": look,
         }
         resp = client.messages.create(
-            model=os.environ.get("MVP_MODEL", "claude-sonnet-5"), max_tokens=500, system=SYSTEM,
+            model=os.environ.get("MVP_MODEL", "claude-sonnet-5"), max_tokens=1500, system=SYSTEM,
             messages=[{"role": "user", "content": json.dumps(payload)}])
-        raw = resp.content[0].text.strip()
+        raw = _text_of(resp).strip()
         raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.M).strip()
         return json.loads(raw)
     except Exception as e:  # noqa: BLE001

@@ -124,14 +124,22 @@ def heuristic(text: str) -> dict:
     }
 
 
+def _text_of(resp):
+    """Return the first text block of a Messages API response (skips thinking blocks)."""
+    for block in resp.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def llm(text: str, client) -> dict:
     for attempt in range(4):
         try:
             resp = client.messages.create(
-                model=MODEL, max_tokens=600, system=SYSTEM_PROMPT,
+                model=MODEL, max_tokens=1200, system=SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": text[:3000]}],
             )
-            raw = resp.content[0].text.strip()
+            raw = _text_of(resp).strip()
             raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.M).strip()
             out = json.loads(raw)
             # sanitise category names the model may drift on
